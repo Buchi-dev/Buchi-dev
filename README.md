@@ -120,44 +120,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-## 🌟 About Me
-I am a passionate Full-Stack Developer with expertise in a wide range of technologies. My development journey spans across robust backend development with Java, C#, and VB.NET, to creating responsive and interactive front-end applications using modern web technologies.
-
-## 💪 Core Competencies
-
-### Programming Languages
-- **Java & Kotlin**: Android development, Enterprise applications
-- **Python**: Scripting, Data Analysis, Backend Development
-- **C & C#**: System Programming, .NET Development
-- **JavaScript/TypeScript**: Full-stack Web Development
-
-### Frontend Development
-- **Core Technologies**: HTML5, CSS3, Modern JavaScript
-- **Frameworks**: React, Vue.js, Angular
-- **Node.js**: Server-side JavaScript, API Development
-
-### UI/UX & Design
-- **CSS Frameworks**: Bootstrap, Tailwind CSS
-- **Component Libraries**: Material-UI, Ant Design
-- **Design Tools**: Figma, Responsive Design
-- **Custom Styling**: CSS-in-JS, SASS/SCSS
-
-### Development Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Platforms**: Linux, Android
-- **IoT**: Arduino Development
-- **Build Tools**: Vite, Modern Tooling
-
-### Database Management
-- **MongoDB**: NoSQL Database Design, Aggregation Pipeline
-- **MySQL**: Relational Database Design, Complex Queries
-- **Firebase**: Real-time Database, Authentication, Cloud Functions
-
-## 📫 Get in Touch
-- 💼 [LinkedIn](Your-LinkedIn-URL)
-- 🌐 [Portfolio](Your-Portfolio-URL)
-- 📧 [Email](mailto:your.email@example.com)
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=radical)
 
