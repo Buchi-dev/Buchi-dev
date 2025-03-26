@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/Buchi-dev">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Buchi-dev&theme=react-dark&hide_border=true&area=true" alt="Buchi's activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buchi-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Buchi's activity graph">
   </a>
 </p>
 
