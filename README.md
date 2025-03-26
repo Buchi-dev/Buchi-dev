@@ -1,10 +1,12 @@
 # 🚀 Full-Stack Developer Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your-LinkedIn-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](Your-Portfolio-URL)
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 20px; border-radius: 10px; color: white;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](Your-LinkedIn-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](Your-Portfolio-URL)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💻 Tech Stack
@@ -112,16 +114,22 @@
 </div>
 
 <!-- Contribution Snake -->
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=radical" alt="GitHub Streak Stats" />
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=radical)
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight" alt="Your GitHub stats" />
+</div>
 
 ---
-⭐️ From [Buchi-dev](https://github.com/Buchi-dev)
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 10px; border-radius: 10px; margin-top: 20px; color: white;">
+⭐️ From <a href="https://github.com/Buchi-dev" style="color: #00ffff;">Buchi-dev</a>
+</div>
+
+</div>
