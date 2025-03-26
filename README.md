@@ -51,9 +51,20 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GitHub Top Languages">
+  <a href="https://github.com/Buchi-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buchi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+  
+  <br/>
+  <a href="https://github.com/Buchi-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="Buchi's GitHub streak"/>
+  </a>
+  
+  <br/>
+  <a href="https://github.com/Buchi-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=Buchi-dev&theme=tokyonight&no-frame=true&column=7" alt="Buchi's GitHub Trophy"/>
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
