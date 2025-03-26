@@ -93,7 +93,7 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
     </td>
   </tr>
 </table>
@@ -106,7 +106,7 @@
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" alt="GitHub Stats" />
         <br></br>
-        <img src="https://streak-stats.demolab.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Buchi-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
