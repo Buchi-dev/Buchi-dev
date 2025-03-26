@@ -132,7 +132,7 @@
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </div>
