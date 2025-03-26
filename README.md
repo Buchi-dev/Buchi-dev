@@ -1,25 +1,23 @@
 # 🚀 Full-Stack Developer Portfolio
 
-<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #1e3c72 1%, #2a5298 100%); padding: 20px; border-radius: 10px; color: white; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); animation: gradientBG 15s ease infinite;">
+<div align="center">
 
-<div style="animation: float 6s ease-in-out infinite;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=80&fontAlignY=35&animation=twinkling&desc=to%20my%20digital%20universe&descAlignY=50" />
-</div>
+<a href="Your-LinkedIn-URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="Your-Portfolio-URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
+</a>
 
-<div style="margin: 20px 0;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](Your-LinkedIn-URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717)](Your-Portfolio-URL)
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=80&fontAlignY=35&animation=twinkling&desc=to%20my%20digital%20universe&descAlignY=50" />
 
-<div align="center" style="margin: 20px 0; animation: pulse 2s ease-in-out infinite;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver;Creative+Innovator;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Problem+Solver;Creative+Innovator;Tech+Enthusiast" alt="Typing SVG" />
 
-<hr style="border: 1px solid rgba(255, 255, 255, 0.2); margin: 20px 0; animation: glow 2s ease-in-out infinite;">
+<hr>
 
 ## 💻 Tech Stack
 
-<div align="center" style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+<div align="center">
 
 ### 🔥 Programming Languages
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
@@ -122,79 +120,21 @@
 </div>
 
 <!-- Contribution Snake -->
-<div align="center" style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); animation: fadeIn 1.5s ease-out;">
-  <img src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center" style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); animation: slideInUp 1s ease-out;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true&background=transparent" alt="GitHub Streak Stats" style="filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 ## 📊 GitHub Stats
-<div align="center" style="background: rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; backdrop-filter: blur(10px); margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); animation: slideInUp 1.5s ease-out;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Your GitHub stats" style="filter: drop-shadow(0 0 10px rgba(255,255,255,0.3));" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
 
-<style>
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-
-@keyframes glow {
-  0% { box-shadow: 0 0 5px rgba(255,255,255,0.2); }
-  50% { box-shadow: 0 0 20px rgba(255,255,255,0.4); }
-  100% { box-shadow: 0 0 5px rgba(255,255,255,0.2); }
-}
-
-@keyframes scaleIn {
-  from { transform: scale(0); opacity: 0; }
-  to { transform: scale(1); opacity: 1; }
-}
-
-@keyframes slideIn {
-  from { transform: translateX(-100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes bounceIn {
-  0% { transform: scale(0.3); opacity: 0; }
-  50% { transform: scale(1.05); opacity: 0.8; }
-  70% { transform: scale(0.9); opacity: 0.9; }
-  100% { transform: scale(1); opacity: 1; }
-}
-
-@keyframes slideInUp {
-  from { transform: translateY(100%); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-</style>
-
-<div align="center" style="margin-top: 40px; animation: fadeIn 2s ease-out;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
----
-<div align="center" style="background: rgba(255, 255, 255, 0.1); padding: 10px; border-radius: 10px; margin-top: 20px; color: white; animation: pulse 2s ease-in-out infinite;">
-⭐️ From <a href="https://github.com/Buchi-dev" style="color: #00ffff; text-decoration: none; font-weight: bold;">Buchi-dev</a>
-</div>
+<a href="https://github.com/Buchi-dev">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Buchi--dev-blue?style=for-the-badge" alt="Made with love" />
+</a>
 
 </div>
