@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Developer;Software+Engineer;Always+Learning+New+Things;Problem+Solver" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>About Me</b>
@@ -17,7 +21,15 @@
 - 📫 How to reach me: **[your-email@example.com]**
 - ⚡ Fun fact: **I code better with coffee**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
@@ -69,6 +81,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Activity Graph</b>
+
+<p align="center">
+  <a href="https://github.com/Buchi-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buchi-dev&theme=tokyo-night&hide_border=true" alt="Buchi's activity graph">
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> <b>Let's Connect!</b>
 
 <div align="center">
@@ -88,9 +110,86 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **More...**
+
+<details>
+  <summary><b>⚙️ Things I use daily</b></summary>
+  <br/>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+          <br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          <br>TypeScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+          <br>GitHub
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+          <br>AWS
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+          <br>Docker
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+          <br>Node.js
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          <br>Python
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+          <br>MySQL
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+          <br>Nginx
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details>
+  <summary><b>🌟 Coding Journey</b></summary>
+  <div>
+    <samp>
+      <p align="center">
+        <br>
+        "Programming isn't about what you know; it's about what you can figure out." <br>
+        - Chris Pine
+        <br>
+        <br>
+      </p>
+      <p>
+        I started my coding journey with the curiosity to build and create. What began as a hobby quickly transformed into a passion that drives me to continuously learn and improve. Every challenge is an opportunity to grow, and every project is a chance to innovate.
+      </p>
+    </samp>
+  </div>
+</details>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Buchi-dev&style=flat-square&color=blue" alt="Profile Views">
 </div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651516ac633527b6d6d5bb5b58/images/marquee.svg">
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
