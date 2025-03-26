@@ -24,6 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
 </p>
 
+### 🎨 UI Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Bootstrap" width="65" height="65" style="background: #61DAFB; border-radius: 8px; padding: 5px;" />
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="65" height="65" />
+</p>
+
 ### 🌟 Database Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
@@ -57,6 +65,12 @@ I am a passionate Full-Stack Developer with expertise in a wide range of technol
 - **JavaScript/TypeScript**: Modern ES6+, React/Angular/Vue
 - **UI/UX**: User-Centric Design, Interactive Interfaces
 - **React + Vite**: Modern build tooling, Fast Refresh, Optimized builds
+
+### UI Frameworks
+- **Bootstrap & React Bootstrap**: Responsive layouts, Component library
+- **Material-UI (MUI)**: Google's Material Design implementation
+- **Ant Design**: Enterprise-level UI design system
+- **Custom Styling**: CSS-in-JS, Styled Components, SASS/SCSS
 
 ### Database Management
 - **MongoDB**: NoSQL Database Design, Aggregation Pipeline
