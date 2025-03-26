@@ -80,13 +80,13 @@
   <br/>
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/Buchi-dev">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Buchi-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Buchi's GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="Buchi's GitHub Streak"/>
   </a>
   
   <br/>
   <!-- GitHub Trophies -->
   <a href="https://github.com/Buchi-dev">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Buchi-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Buchi's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Buchi-dev&theme=algolia&no-frame=true&row=1&column=6" alt="Buchi's GitHub Trophies"/>
   </a>
 </div>
 
