@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
 </p>
@@ -55,6 +56,7 @@ I am a passionate Full-Stack Developer with expertise in a wide range of technol
 - **HTML/CSS**: Responsive Design, CSS Frameworks, Modern Layouts
 - **JavaScript/TypeScript**: Modern ES6+, React/Angular/Vue
 - **UI/UX**: User-Centric Design, Interactive Interfaces
+- **React + Vite**: Modern build tooling, Fast Refresh, Optimized builds
 
 ### Database Management
 - **MongoDB**: NoSQL Database Design, Aggregation Pipeline
