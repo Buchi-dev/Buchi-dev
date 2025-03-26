@@ -10,16 +10,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>About Me</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b><span style="color: #4285F4">About Me</span></b>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<div style="background: linear-gradient(to right, #0096FF, #00D7FF); padding: 20px; border-radius: 10px; color: white;">
+  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I'm currently working on **innovative web projects**
-- 🌱 I'm currently learning **advanced frameworks and tools**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, JavaScript, and more**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **I code better with coffee**
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔭 I'm currently working on <b style="color: #E0F7FA;">innovative web projects</b></li>
+    <li>🌱 I'm currently learning <b style="color: #E0F7FA;">advanced frameworks and tools</b></li>
+    <li>👯 I'm looking to collaborate on <b style="color: #E0F7FA;">open-source projects</b></li>
+    <li>💬 Ask me about <b style="color: #E0F7FA;">web development, JavaScript, and more</b></li>
+    <li>📫 How to reach me: <b style="color: #E0F7FA;">[your-email@example.com]</b></li>
+    <li>⚡ Fun fact: <b style="color: #E0F7FA;">I code better with coffee</b></li>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
@@ -63,19 +67,26 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
 <div align="center">
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/Buchi-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buchi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Buchi's GitHub Stats"/>
+  </a>
+  
+  <!-- Most Used Languages Card -->
+  <a href="https://github.com/Buchi-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buchi-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Buchi's Most Used Languages"/>
   </a>
   
   <br/>
+  <!-- GitHub Streak Stats -->
   <a href="https://github.com/Buchi-dev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buchi-dev&theme=tokyonight&hide_border=true" alt="Buchi's GitHub streak"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Buchi-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Buchi's GitHub Streak"/>
   </a>
   
   <br/>
+  <!-- GitHub Trophies -->
   <a href="https://github.com/Buchi-dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=Buchi-dev&theme=tokyonight&no-frame=true&column=7" alt="Buchi's GitHub Trophy"/>
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Buchi-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" alt="Buchi's GitHub Trophies"/>
   </a>
 </div>
 
@@ -85,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/Buchi-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buchi-dev&theme=tokyo-night&hide_border=true" alt="Buchi's activity graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Buchi-dev&theme=react-dark&hide_border=true&area=true" alt="Buchi's activity graph">
   </a>
 </p>
 
