@@ -127,11 +127,11 @@
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Pac-Man
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman.svg" />
+  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman-anim.gif" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
