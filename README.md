@@ -127,6 +127,13 @@
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 <a href="https://github.com/Buchi-dev">
