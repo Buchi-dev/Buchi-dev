@@ -129,9 +129,9 @@
 
 ## 🎮 Contribution Pac-Man
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman.svg" />
-  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/github-contribution-pacman-anim.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman.svg" />
+  <img alt="GitHub Contribution Pac-Man Animation" src="https://raw.githubusercontent.com/Buchi-dev/Buchi-dev/output/pacman.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
