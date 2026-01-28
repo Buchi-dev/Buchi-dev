@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<a href="Your-LinkedIn-URL">
+<a href="https://www.linkedin.com/in/tristan-justine-m-yuzon-32a00b394/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="Your-Portfolio-URL">
+<a href="https://portfolio-fawn-iota-49srkyopd6.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="Portfolio"/>
 </a>
 
